@@ -6,7 +6,8 @@ Originally, it was developped as thre different files imported to the algorithms
 - **Algorithms.owl**: Concepts from introductory Algorithms and Data Structures courses.
 - **PythonSyntax.rdf**: Syntax definitions and structures for Python.
 - **PascalSyntax.rdf**: Syntax definitions and structures for Pascal.
-Here we provide a single file exported and merged.
+
+### Here we provide a single file exported and merged.
 
 ## Purpose
 The ontologies are designed to:
